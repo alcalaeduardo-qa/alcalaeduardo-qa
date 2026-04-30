@@ -13,7 +13,7 @@
 
 Encuentro los bugs antes de que lleguen a tus usuarios.
 
-9 años de ingenieria de calidad en entornos de alta exigencia, ahora aplicados al software. Diseño suites de prueba que cubren la piramide completa — web, API, movil y base de datos — con la misma mentalidad de cero defectos que desarrolle en manufactura industrial.
+9 años de ingenieria de calidad en entornos de alta exigencia, ahora aplicados al software. Diseño suites de prueba que cubren la piramide completa, web, API, movil y base de datos, con la misma mentalidad de cero defectos que desarrolle en manufactura industrial.
 
 ---
 
@@ -32,7 +32,7 @@ Encuentro los bugs antes de que lleguen a tus usuarios.
 | Navegadores | Opera + Chrome |
 
 **Bugs criticos encontrados:**
-- Duplicacion de ordenes en PostgreSQL — invisible desde la UI, detectado via auditoria SQL
+- Duplicacion de ordenes en PostgreSQL: invisible desde la UI, detectado via auditoria SQL
 - Salto de estados: ordenes pasando de estado 2 a 4 sin pasar por el estado 3
 - Contrasenas almacenadas sin hashing en ciertos flujos del backend
 
